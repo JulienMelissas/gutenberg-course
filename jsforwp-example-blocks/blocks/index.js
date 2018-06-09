@@ -16,3 +16,4 @@ import './11-url-input';
 import './11-url-input-conditional';
 import './12-dynamic';
 import './14-meta-box';
+import './15-google-map';
